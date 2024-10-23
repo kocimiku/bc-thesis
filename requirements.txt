@@ -1,0 +1,11 @@
+git+https://github.com/ubc-systopia/gosdt-guesses@sklearn-fix
+numpy
+scipy
+pandas
+cplex
+prettytable
+interpret
+catboost
+seaborn
+plotly
+kaleido
